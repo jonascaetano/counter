@@ -1,4 +1,6 @@
-# Creation of a simple counter in HTML5, CSS3 and JavaScript.
+# Creation of a simple counter using HTML5, CSS3 and JavaScript
+
+## counter
 
 
 
